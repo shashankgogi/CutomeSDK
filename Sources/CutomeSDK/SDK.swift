@@ -5,9 +5,9 @@
 //  Created by Shashank on 18/01/24.
 //
 
-class SDK {
+public class SDK {
     
-    static func initSDKFunction() {
+    public static func initSDKFunction() {
         print("SDK Initialized....")
     }
 
